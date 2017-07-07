@@ -146,7 +146,7 @@ Here's a few ways to apply the image:
     ApplyImage E:\Images\ThinImage.wim
     ```
 
-    where D:\\Images\\ThinImage.wim is the name of your Windows image file.
+    where E:\\Images\\ThinImage.wim is the name of your Windows image file.
 
     **Note**  If the DISM /Apply-Image command fails, make sure you’re using a [supported version of DISM](dism-supported-platforms.md) for that Windows image. For example, to apply a Windows 10 image, you’ll need the Windows 10 version of DISM.
 
